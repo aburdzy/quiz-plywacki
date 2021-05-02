@@ -3,4 +3,5 @@
 Simple quiz about swimming knowledge.
 
 ## Gallery
-![image](https://user-images.githubusercontent.com/80163377/116808655-4f310e80-ab3a-11eb-8c63-a2f7cd97c51b.png)
+
+![image](https://user-images.githubusercontent.com/80163377/116808740-cebedd80-ab3a-11eb-9198-4cb4cff0a6d5.png)
